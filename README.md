@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0496-next-greater-element-i/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -27,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0496-next-greater-element-i/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Stack
@@ -44,6 +46,15 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
