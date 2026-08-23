@@ -16,6 +16,7 @@
 | ------- | ------- |
 | [0647-palindromic-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0647-palindromic-substrings/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
