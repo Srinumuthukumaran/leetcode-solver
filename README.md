@@ -81,4 +81,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1763-longest-nice-substring](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1763-longest-nice-substring/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
