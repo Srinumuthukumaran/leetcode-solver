@@ -23,6 +23,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -44,6 +45,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
@@ -65,6 +67,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
