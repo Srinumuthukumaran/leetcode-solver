@@ -10,6 +10,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0227-basic-calculator-ii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0647-palindromic-substrings/) | Medium |
@@ -46,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
@@ -68,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
