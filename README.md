@@ -24,6 +24,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0035-search-insert-position/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0496-next-greater-element-i/) | Easy |
@@ -94,4 +95,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0176-second-highest-salary/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
