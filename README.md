@@ -95,6 +95,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0176-second-highest-salary/) | Medium |
 | [0184-department-highest-salary](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0184-department-highest-salary/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
