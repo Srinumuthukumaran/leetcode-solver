@@ -110,6 +110,7 @@
 | [0182-duplicate-emails](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0182-duplicate-emails/) | Easy |
 | [0184-department-highest-salary](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0184-department-highest-salary/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [1407-top-travellers](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1407-top-travellers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
