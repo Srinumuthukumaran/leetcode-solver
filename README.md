@@ -5,6 +5,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0647-palindromic-substrings/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -26,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0035-search-insert-position/) | Easy |
+| [0075-sort-colors](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0075-sort-colors/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -123,6 +125,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
@@ -141,4 +144,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
