@@ -5,6 +5,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0011-container-with-most-water/) | Medium |
 | [0075-sort-colors](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0647-palindromic-substrings/) | Medium |
@@ -26,6 +27,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0075-sort-colors/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -152,4 +154,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0075-sort-colors/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
