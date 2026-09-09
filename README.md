@@ -11,6 +11,7 @@
 | [0647-palindromic-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0647-palindromic-substrings/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1089-duplicate-zeros/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@
 | [0905-sort-array-by-parity](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1089-duplicate-zeros](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1089-duplicate-zeros/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
