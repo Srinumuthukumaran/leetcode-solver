@@ -19,6 +19,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0647-palindromic-substrings/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1763-longest-nice-substring/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +62,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1763-longest-nice-substring/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +160,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
