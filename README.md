@@ -99,6 +99,7 @@
 | [0227-basic-calculator-ii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0268-missing-number](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0268-missing-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1492-the-kth-factor-of-n](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +183,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0224-basic-calculator/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1492-the-kth-factor-of-n/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1492-the-kth-factor-of-n/) | Medium |
 <!---LeetCode Topics End-->
