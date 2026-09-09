@@ -35,6 +35,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0268-missing-number/) | Easy |
@@ -53,6 +54,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -116,6 +118,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1763-longest-nice-substring/) | Easy |
@@ -146,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -161,6 +165,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 ## Quickselect
@@ -192,4 +197,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1492-the-kth-factor-of-n/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
