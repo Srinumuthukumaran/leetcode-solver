@@ -144,6 +144,7 @@
 | [0176-second-highest-salary](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0182-duplicate-emails/) | Easy |
 | [0184-department-highest-salary](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0184-department-highest-salary/) | Medium |
+| [0197-rising-temperature](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0197-rising-temperature/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [1148-article-views-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1148-article-views-i/) | Easy |
 | [1407-top-travellers](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1407-top-travellers/) | Easy |
