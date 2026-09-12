@@ -145,6 +145,7 @@
 | [0182-duplicate-emails](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0182-duplicate-emails/) | Easy |
 | [0184-department-highest-salary](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0184-department-highest-salary/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [1148-article-views-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1148-article-views-i/) | Easy |
 | [1407-top-travellers](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1407-top-travellers/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Binary Search
