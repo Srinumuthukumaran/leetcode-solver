@@ -153,6 +153,7 @@
 | [1407-top-travellers](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1407-top-travellers/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1934-confirmation-rate](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1934-confirmation-rate/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
