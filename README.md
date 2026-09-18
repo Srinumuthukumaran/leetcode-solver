@@ -156,6 +156,7 @@
 | [0595-big-countries](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0595-big-countries/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1148-article-views-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1148-article-views-i/) | Easy |
+| [1164-product-price-at-a-given-date](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1280-students-and-examinations](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1280-students-and-examinations/) | Easy |
