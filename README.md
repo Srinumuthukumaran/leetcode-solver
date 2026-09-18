@@ -167,6 +167,7 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1907-count-salary-categories](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1934-confirmation-rate/) | Medium |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
