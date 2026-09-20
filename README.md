@@ -25,6 +25,7 @@
 | [1763-longest-nice-substring](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1763-longest-nice-substring/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +243,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1920-build-array-from-permutation/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
