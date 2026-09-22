@@ -163,6 +163,7 @@
 | [1174-immediate-food-delivery-ii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1280-students-and-examinations](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1280-students-and-examinations/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1407-top-travellers](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1527-patients-with-a-condition/) | Easy |
