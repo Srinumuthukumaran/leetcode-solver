@@ -166,6 +166,7 @@
 | [0620-not-boring-movies](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0626-exchange-seats/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1075-project-employees-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1148-article-views-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1174-immediate-food-delivery-ii/) | Medium |
