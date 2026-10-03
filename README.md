@@ -154,6 +154,7 @@
 | [0176-second-highest-salary](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0182-duplicate-emails/) | Easy |
 | [0184-department-highest-salary](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0197-rising-temperature](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0197-rising-temperature/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
