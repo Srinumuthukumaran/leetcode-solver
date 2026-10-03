@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0224-basic-calculator](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -31,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0647-palindromic-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0647-palindromic-substrings/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -83,6 +85,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0224-basic-calculator](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -272,4 +275,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
