@@ -175,6 +175,7 @@
 | [1148-article-views-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1148-article-views-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1174-immediate-food-delivery-ii/) | Medium |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1280-students-and-examinations](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
