@@ -25,6 +25,7 @@
 | [0647-palindromic-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0709-to-lower-case](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0709-to-lower-case/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0856-score-of-parentheses/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1763-longest-nice-substring/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -94,6 +95,7 @@
 | [0496-next-greater-element-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0856-score-of-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -284,4 +286,5 @@
 | [0022-generate-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
