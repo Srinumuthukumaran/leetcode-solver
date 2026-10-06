@@ -26,6 +26,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0709-to-lower-case](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0709-to-lower-case/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1763-longest-nice-substring/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -96,6 +97,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -249,6 +251,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0011-container-with-most-water/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -287,4 +290,5 @@
 | [0032-longest-valid-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
