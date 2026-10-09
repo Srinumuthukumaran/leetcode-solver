@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/recyclable-and-low-fat-products/solutions/8506395/products-that-are-low-fat-and-recyclable-fugj/">1757. Recyclable and Low Fat Products</a></h2><h3>Easy</h3><hr><p>Table: <code>Products</code></p>
+<h2><a href="https://leetcode.com/problems/recyclable-and-low-fat-products">1757. Recyclable and Low Fat Products</a></h2><h3>Easy</h3><hr><p>Table: <code>Products</code></p>
 
 <pre>
 +-------------+---------+
