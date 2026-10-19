@@ -72,6 +72,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2540-minimum-common-value/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -219,6 +220,7 @@
 | [0268-missing-number](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0268-missing-number/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -229,6 +231,7 @@
 | [0268-missing-number](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0905-sort-array-by-parity/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
