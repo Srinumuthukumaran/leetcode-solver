@@ -138,6 +138,7 @@
 | [0836-rectangle-overlap](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0836-rectangle-overlap/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1518-water-bottles](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1518-water-bottles/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +288,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1518-water-bottles](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1518-water-bottles/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Geometry
