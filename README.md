@@ -195,6 +195,7 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1280-students-and-examinations](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1280-students-and-examinations/) | Easy |
+| [1321-restaurant-growth](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1341-movie-rating/) | Medium |
 | [1407-top-travellers](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1407-top-travellers/) | Easy |
