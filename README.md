@@ -106,6 +106,7 @@
 | [0224-basic-calculator](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0496-next-greater-element-i/) | Easy |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0856-score-of-parentheses/) | Medium |
@@ -325,4 +326,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
