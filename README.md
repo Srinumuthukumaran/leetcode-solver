@@ -76,6 +76,7 @@
 | [1920-build-array-from-permutation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2217-find-palindrome-with-fixed-length](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2217-find-palindrome-with-fixed-length/) | Medium |
 | [2540-minimum-common-value](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2540-minimum-common-value/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -143,6 +144,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1518-water-bottles](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1518-water-bottles/) | Easy |
+| [2217-find-palindrome-with-fixed-length](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2217-find-palindrome-with-fixed-length/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
