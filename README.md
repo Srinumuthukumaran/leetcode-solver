@@ -81,6 +81,7 @@
 | [2540-minimum-common-value](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2540-minimum-common-value/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -99,6 +100,7 @@
 | [2540-minimum-common-value](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2540-minimum-common-value/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +150,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1518-water-bottles](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1518-water-bottles/) | Easy |
 | [2217-find-palindrome-with-fixed-length](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2217-find-palindrome-with-fixed-length/) | Medium |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +262,7 @@
 | [0169-majority-element](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +292,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
