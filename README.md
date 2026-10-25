@@ -51,6 +51,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0016-3sum-closest/) | Medium |
 | [0035-search-insert-position](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0035-search-insert-position/) | Easy |
@@ -89,6 +90,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0268-missing-number/) | Easy |
