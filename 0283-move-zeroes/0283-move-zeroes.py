@@ -1,5 +1,5 @@
-class Solution:
-    def moveZeroes(self, nums: list[int]) -> None:
+class Solution(object):
+    def moveZeroes(self, nums):
         left = 0
 
         for right in range(len(nums)):
@@ -7,5 +7,4 @@ class Solution:
                 nums[left],nums[right] = nums[right],nums[left]
                 left+=1
         return nums
-        
         
