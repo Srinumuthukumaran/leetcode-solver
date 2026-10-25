@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0283-move-zeroes/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0647-palindromic-substrings/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -60,6 +61,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0523-continuous-subarray-sum/) | Medium |
