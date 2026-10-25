@@ -1,5 +1,5 @@
-class Solution:
-    def lengthOfLongestSubstring(self, s: str) -> int:
+class Solution(object):
+    def lengthOfLongestSubstring(self, s):
         check_set = set()
         left = 0
         maxlen = 0
@@ -10,5 +10,5 @@ class Solution:
                 left+=1
             check_set.add(s[right])
             maxlen = max(maxlen,right-left+1)
-            
         return maxlen
+        
