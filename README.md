@@ -21,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0006-zigzag-conversion](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0032-longest-valid-parentheses/) | Hard |
