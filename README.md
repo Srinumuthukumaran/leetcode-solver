@@ -79,6 +79,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1089-duplicate-zeros/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -324,6 +325,7 @@
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0867-transpose-matrix/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1103-distribute-candies-to-people/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1260-shift-2d-grid/) | Easy |
 | [1518-water-bottles](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1518-water-bottles/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -365,6 +367,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0867-transpose-matrix/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1672-richest-customer-wealth/) | Easy |
