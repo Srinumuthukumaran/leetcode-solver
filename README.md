@@ -70,6 +70,7 @@
 | [0496-next-greater-element-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0704-binary-search](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0739-daily-temperatures/) | Medium |
@@ -323,6 +324,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0867-transpose-matrix/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1260-shift-2d-grid/) | Easy |
@@ -366,6 +368,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
