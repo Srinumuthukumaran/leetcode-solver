@@ -11,6 +11,6 @@ class Solution {
             give++;
             i = (i+1)%num_people;
         }
-        return result;
+        return result;       
     }
 }
