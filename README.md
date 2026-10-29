@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0283-move-zeroes/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0647-palindromic-substrings/) | Medium |
+| [0832-flipping-an-image](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0832-flipping-an-image/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1089-duplicate-zeros/) | Easy |
@@ -74,6 +75,7 @@
 | [0704-binary-search](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0739-daily-temperatures/) | Medium |
+| [0832-flipping-an-image](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0832-flipping-an-image/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -191,6 +193,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0268-missing-number/) | Easy |
+| [0832-flipping-an-image](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0832-flipping-an-image/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1763-longest-nice-substring/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -325,6 +328,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0832-flipping-an-image](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0867-transpose-matrix/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1260-shift-2d-grid/) | Easy |
@@ -369,6 +373,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0832-flipping-an-image](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
