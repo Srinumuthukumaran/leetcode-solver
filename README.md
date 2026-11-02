@@ -45,6 +45,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0542-01-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -71,6 +72,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0542-01-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0704-binary-search](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0704-binary-search/) | Easy |
@@ -380,6 +382,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0542-01-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0832-flipping-an-image/) | Easy |
@@ -393,6 +396,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
