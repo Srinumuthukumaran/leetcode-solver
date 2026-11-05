@@ -87,6 +87,7 @@
 | [0994-rotting-oranges](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1089-duplicate-zeros/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -388,6 +389,7 @@
 | [0832-flipping-an-image](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -399,6 +401,7 @@
 | [0542-01-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
