@@ -76,6 +76,7 @@
 | [0542-01-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0695-max-area-of-island](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0733-flood-fill/) | Easy |
@@ -380,6 +381,7 @@
 | [0200-number-of-islands](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0463-island-perimeter/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0695-max-area-of-island](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0733-flood-fill/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -388,6 +390,7 @@
 | [0463-island-perimeter](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0542-01-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0695-max-area-of-island](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0867-transpose-matrix/) | Easy |
@@ -403,6 +406,7 @@
 | [0200-number-of-islands](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0542-01-matrix/) | Medium |
+| [0695-max-area-of-island](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -410,4 +414,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
