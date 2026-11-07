@@ -88,6 +88,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0994-rotting-oranges](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1020-number-of-enclaves/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1089-duplicate-zeros/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1260-shift-2d-grid/) | Easy |
@@ -383,6 +384,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0695-max-area-of-island](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0733-flood-fill/) | Easy |
+| [1020-number-of-enclaves](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1020-number-of-enclaves/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +397,7 @@
 | [0832-flipping-an-image](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -409,10 +412,12 @@
 | [0695-max-area-of-island](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0695-max-area-of-island/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1020-number-of-enclaves/) | Medium |
 <!---LeetCode Topics End-->
