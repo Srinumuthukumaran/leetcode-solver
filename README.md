@@ -212,6 +212,7 @@
 | [0177-nth-highest-salary](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0178-rank-scores/) | Medium |
 | [0182-duplicate-emails](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0182-duplicate-emails/) | Easy |
+| [0183-customers-who-never-order](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0196-delete-duplicate-emails/) | Easy |
