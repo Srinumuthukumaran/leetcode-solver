@@ -3,7 +3,7 @@ class Solution {
         Queue<int[]> queue = new LinkedList<>();
 
         int fresh = 0;
-        int minutes = 0;
+        int min = 0;
 
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
@@ -18,32 +18,31 @@ class Solution {
         int[] dr = {-1,1,0,0};
         int[] dc = {0,0,-1,1};
 
-        while(!queue.isEmpty() && fresh > 0){
+        while(!queue.isEmpty() && fresh  >0){
             int size = queue.size();
-
             for(int i=0;i<size;i++){
-                int[] current = queue.poll();
+                int[] cur = queue.poll();
 
-                int r = current[0];
-                int c = current[1];
+                int r = cur[0];
+                int c = cur[1];
 
                 for(int k=0;k<4;k++){
                     int nr = r + dr[k];
                     int nc = c + dc[k];
 
-                    if(nr>=0 && nr<grid.length && nc>=0 && nc<grid[0].length && 
-                        grid[nr][nc]== 1 ){
+                    if(nr>=0 && nr<grid.length && nc>=0 && nc<grid[0].length &&
+                        grid[nr][nc] == 1){
                             grid[nr][nc] = 2;
                             fresh--;
                             queue.offer(new int[]{nr,nc});
                     }
                 }
             }
-            minutes++;
+            min++;
         }
-        if(fresh > 0){
+        if(fresh>0){
             return -1;
         }
-        return minutes;
+        return min;
     }
 }
