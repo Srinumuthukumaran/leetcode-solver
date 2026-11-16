@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -56,6 +57,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0035-search-insert-position/) | Easy |
@@ -274,6 +276,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0169-majority-element/) | Easy |
