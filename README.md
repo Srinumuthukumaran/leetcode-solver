@@ -39,6 +39,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1763-longest-nice-substring/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
