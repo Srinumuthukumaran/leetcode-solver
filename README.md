@@ -104,6 +104,7 @@
 | [1920-build-array-from-permutation](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2217-find-palindrome-with-fixed-length](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2217-find-palindrome-with-fixed-length/) | Medium |
 | [2540-minimum-common-value](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2540-minimum-common-value/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -291,6 +292,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Srinumuthukumaran/leetcode-solver/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
